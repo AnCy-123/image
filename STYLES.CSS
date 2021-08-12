@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@100&display=swap');
+body{
+    background: BLACK;
+    font-family: LONDRINA SOLID;
+    color: purple;
+}
+.headiv{
+    float: none;
+    background:black;
+    width: 260px;
+    height: 80px;
+    color: white;
+    padding: 10px 10px 10px 10px;
+}
+.copyrightfooter{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size:30px;
+    background: transparent;
+    height: 80px;
+    padding: 30px 30px 30px 30px;
+    color: purple;
+
+}
+canvas{
+    border-radius: 50%;
+    border: 10px DOTTED gray;
+    margin-top: 200px;
+}
